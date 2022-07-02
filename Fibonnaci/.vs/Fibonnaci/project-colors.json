@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "723de67b-cc78-4cd1-be9d-0727cb8a7774": {
+      "ProjectGuid": "723de67b-cc78-4cd1-be9d-0727cb8a7774",
+      "DisplayName": "Tdd",
+      "ColorIndex": 0
+    },
+    "18bf0048-7046-4fb2-b496-070302c77891": {
+      "ProjectGuid": "18bf0048-7046-4fb2-b496-070302c77891",
+      "DisplayName": "FibonnaciTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

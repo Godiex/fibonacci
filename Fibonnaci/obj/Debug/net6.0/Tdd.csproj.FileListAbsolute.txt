@@ -1,0 +1,15 @@
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\bin\Debug\net6.0\Tdd.exe
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\bin\Debug\net6.0\Tdd.deps.json
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\bin\Debug\net6.0\Tdd.runtimeconfig.json
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\bin\Debug\net6.0\Tdd.dll
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\bin\Debug\net6.0\ref\Tdd.dll
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\bin\Debug\net6.0\Tdd.pdb
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.csproj.AssemblyReference.cache
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.AssemblyInfoInputs.cache
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.AssemblyInfo.cs
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.csproj.CoreCompileInputs.cache
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.dll
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\ref\Tdd.dll
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.pdb
+C:\Users\diego.villa\Downloads\Proyectos\PRACTICA\NumberConverter\Fibonnaci\obj\Debug\net6.0\Tdd.genruntimeconfig.cache
